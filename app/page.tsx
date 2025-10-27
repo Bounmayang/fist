@@ -3,8 +3,11 @@ export default function Home() {
     <main>
       <h1>Hello, Next.js 🚀</h1>
       <p>This is my first modified home page!</p>
-       <p>This is my first modified home page!</p>
-        <p>This is my first modified home page!</p>
+      <p>This is my first modified home page!</p>
+      <p>This is my first modified home page!</p>
+      <p>This is my first modified home page!</p>
+      <p>This is my first modified home page!</p>
+      <p>This is my first modified home page!</p>
     </main>
   );
 }
